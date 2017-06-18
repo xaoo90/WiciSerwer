@@ -1,0 +1,12 @@
+idUzytkownik,login,haslo,mail,uprawnienie
+1,admin,21232f297a57a5a743894a0e4a801fc3,wici@wici.pl,admin
+2,user1,ee11cbb19052e40b07aac0ca060c23ee,1,user
+3,user2,ee11cbb19052e40b07aac0ca060c23ee,2,user
+4,user3,ee11cbb19052e40b07aac0ca060c23ee,3,user
+5,user4,ee11cbb19052e40b07aac0ca060c23ee,4,user
+6,user5,ee11cbb19052e40b07aac0ca060c23ee,5,user
+7,user6,ee11cbb19052e40b07aac0ca060c23ee,6,user
+8,user7,ee11cbb19052e40b07aac0ca060c23ee,7,user
+9,user8,ee11cbb19052e40b07aac0ca060c23ee,8,user
+10,user9,ee11cbb19052e40b07aac0ca060c23ee,9,user
+11,user10,ee11cbb19052e40b07aac0ca060c23ee,10,user

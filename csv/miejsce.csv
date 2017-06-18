@@ -1,0 +1,25 @@
+idMiejsce,uzytkownik,nazwa,adres,www,mail,telefon,zdjecie,cord1,cord2,dataDodania
+1,2,Helios,"ul. Świętokrzyska 20,
+25-329 Kielce","http://www.helios.pl/13,Kielce/StronaGlowna",brak,413321330,...,50.880611,20.647120,"2017-01-01 19:05:00"
+2,3,Multikino,"ul. Warszawska 26,
+25-312 Kielce",https://www.multikino.pl/pl,brak,412486410,...,50.875771,20.636641,"2017-01-01 19:05:00"
+3,4,Moskwa,"ul. Stanisława Staszica 5,
+25-008 Kielce",http://www.kinomoskwa.pl,brak,413444734,...,50.870670,20.626631,"2017-01-01 19:05:00"
+4,5,"Czerwony Fortepian","ul. Bodzentyńska 10,
+25-329 Kielce",http://www.czerwonyfortepian.eu,brak,512170995,...,50.871830,20.633570,"2017-01-01 19:05:00"
+5,6,"MK Bowling","ul. Świętokrzyska 20,
+25-329 Kielce",http://www.mkbowling.pl/start-kielce,brak,412405031,...,50.880310,20.646931,"2017-01-01 19:05:00"
+6,7,"Stadion leśny","ul. Jana Tarnowskiego 15,
+26-025 Kielce"," ",brak," ",...,50.842911,20.613270,"2017-01-01 19:05:00"
+7,8,"Amfiteatr Kadzielnia","al. Legionów 1,
+Kielce",http://www.amfiteatr-kadzielnia.pl,brak,413614768,...,50.859699,20.618610,"2017-01-01 19:05:00"
+8,9,"Teatr Lalki i Aktora Kubuś","ul. Duża 9,
+25-304 Kielce",http://www.teatrkubus.pl,brak,413445836,...,50.870602,20.630970,"2017-01-01 19:05:00"
+9,2,"Teatr im. Stefana Żeromskiego","ul. Henryka Sienkiewicza 32,
+25-507 Kielce",http://www.teatr-zeromskiego.com.pl,brak,413446048,...,50.870960,20.628839,"2017-01-01 19:05:00"
+10,3,"Targi Kielce","ul. Zakładowa 1,
+25-672 Kielce",http://www.targikielce.pl,brak,413651222,...,50.898499,20.586720,"2017-01-01 19:05:00"
+11,4,"Muzeum Narodowe w Kielcach","pl. Zamkowy 1,
+25-010 Kielce",http://www.mnki.pl/pl/home,brak,413444015,...,50.868992,20.627380,"2017-01-01 19:05:00"
+12,5,Antrakt,"pl. Moniuszki 2b,
+25-900 Kielce",http://www.beta.antrakt.pl,brak,413432046,...,50.868961,20.637140,"2017-01-01 19:05:00"
